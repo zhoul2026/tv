@@ -10,7 +10,7 @@ CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI南海之声,http://sk.cri.cn/nhzs.m3u8
 CRI世界华声,http://sk.cri.cn/hxfh.m3u8
 CRI轻松调频,http://sk.cri.cn/915.m3u8
-CRI环球经济广播,http://sk.cri.cn/905.m3u8
+SLOW ENGLISH,https://slowenglish.fm/live.mp3
 中国校园广播,http://lhttp.qingting.fm/live/20091/64k.mp3
 北京新闻广播,http://123.56.16.201:1935/live/fm1006/96K/tzwj_video.m3u8
 态度电台,http://lhttp.qingting.fm/live/4917/64k.mp3
@@ -38,11 +38,11 @@ AsiaFM HD音乐台, http://lhttp.qingting.fm/live/15318341/64k.mp3
 海口WHIZRADIO音乐电台, http://lhttp.qingting.fm/live/20010/64k.mp3
 90后潮流音悦台, http://lhttp.qingting.fm/live/20207760/64k.mp3
 新闻听天下, http://lhttp.qingting.fm/live/20500169/64k.mp3
-睡眠放松电台,http://121.51.249.99/txdirect.hls.huya.com/src/1099531753567-1099531753567-86439614151131136-2199063630590-10057-A-0-1.m3u8
-听雨电台,http://cn-jsnt-cmcc-live-01.bilivideo.com/live-bvc/468616/live_32829490_4400645_1500.m3u8
-阅读学习电台,http://121.51.249.99/txdirect.hls.huya.com/src/1099531753569-1099531753569-86439622741065728-2199063630594-10057-A-0-1.m3u8
-FM Uruma,https://mtist.as.smartstream.ne.jp/30011/livestream/chunklist.m3u8
-超！A&G+,https://hls-base1.mitene.ad.jp/agqr1/iphone/3Gaudios.m3u8
+国标新闻,https://www.qtfm.cn/radios/20500172/64k.mp3
+亚洲粤语,https://www.qtfm.cn/radios/15318569/64k.mp3
+亚洲音乐,https://www.qtfm.cn/radios/15318341/64k.mp3
+亚洲天空,https://www.qtfm.cn/radios/20071/64k.mp3
+星河音乐,https://www.qtfm.cn/radios/20210755/64k.mp3
 CNR中国之声,https://live-play.cctvnews.cctv.com/cctv/zgzs192.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 CNR文艺之声,http://audiows010.cnr.cn/live/wyzs192/playlist.m3u8
@@ -55,45 +55,13 @@ CNR香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-CNR维吾尔语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
-CNR藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
-CNR哈萨克语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-长三角之声,http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
-第一财经广播,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-CCTV1 综合,https://cctv5cncc.v.wscdns.com/live/cctv1_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV2 财经,https://cctv5cncc.v.wscdns.com/live/cctv2_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV3 综艺,http://cctv.v.myalicdn.com/live/cctv3_1audio.m3u8
-CCTV4 中文国际 亚洲,https://cctv5cncc.v.wscdns.com/live/cctv4_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV4 中文国际 欧洲,https://cctv5cncc.v.wscdns.com/live/cctveurope_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV4 中文国际 美洲,https://cctv5cncc.v.wscdns.com/live/cctvamerica_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV5 体育,https://cctv5cncc.v.wscdns.com/live/cctv5_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV5&#43; 体育赛事,https://cctv5cncc.v.wscdns.com/live/cctv5plus_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV6 电影,http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
-CCTV7 国防军事,https://cctv5cncc.v.wscdns.com/live/cctv7_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV8 电视剧,http://cctv.v.myalicdn.com/live/cctv8_1audio.m3u8
-CCTV9 纪录,https://cctv5cncc.v.wscdns.com/live/cctvjilu_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV10 科教,https://cctv5cncc.v.wscdns.com/live/cctv10_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV11 戏曲,https://cctv5cncc.v.wscdns.com/live/cctv11_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV12 社会与法,https://cctv5cncc.v.wscdns.com/live/cctv12_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV13 新闻,https://cctv5cncc.v.wscdns.com/live/cctv13_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV14 少儿,https://cctv5cncc.v.wscdns.com/live/cctvchild_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV15 音乐,https://cctv5cncc.v.wscdns.com/live/cctv15_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV16 奥林匹克,https://cctv5cncc.v.wscdns.com/live/cctv16_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CCTV17 农业农村,https://cctv5cncc.v.wscdns.com/live/cctv17_1/index.m3u8?adapt&#61;0&amp;BR&#61;audio
-CGTN,http://stream.zeno.fm/ambvmys65rquv
-BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio&#61;320000.m3u8
-BBC Radio 1Xtra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio&#61;320000.m3u8
-BBC Radio 1 Dance,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio&#61;320000.m3u8
-BBC Radio 1 Relax,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio&#61;320000.m3u8
-BBC Radio 2,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio&#61;320000.m3u8
-BBC Radio 3,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio&#61;320000.m3u8
-BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio&#61;320000.m3u8
-BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio&#61;320000.m3u8
-BBC Radio 5 Live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio&#61;320000.m3u8
-BBC Radio 6,https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio&#61;320000.m3u8
-BBC World Service,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio&#61;320000.m3u8
-A-line Radio 网路音乐台,http://radio.apple-line.com:987/radio-data/alinePlayer.php
-全国治安交通网,http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+亚洲热歌,https://www.qtfm.cn/radios/20500208/64k.mp3
+海上财金,https://www.qtfm.cn/radios/20500170/64k.mp3
+891线上音乐,https://www.qtfm.cn/radios/20500215/64k.mp3
+湾区音乐,https://www.qtfm.cn/radios/20500163/64k.mp3
+CITY城市音乐,https://www.qtfm.cn/radios/20500153/64k.mp3
+新闻天下,https://www.qtfm.cn/radios/20500169/64k.mp3
+动听音乐,https://www.qtfm.cn/radios/5022107/64k.mp3
 CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM|台北健康,http://fm901.cityfm.tw:8080/901.mp3
 CityFM|台南之音,http://fm971.cityfm.tw:8080/971.mp3
@@ -141,61 +109,57 @@ KWMU,http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stre
 GPB,http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
 WUWM,http://wuwm.streamguys1.com/live
 NHPR,http://205.234.238.46/nhpr-256-source.aac
-WBHM,https://audio.wbhm.org/live.m4a
-FOX News Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1&#64;92141/index_300_av-b.m3u8
-CNN International,http://tunein.ord.streamguys1.com/secure-CNNi
-Al Jazeera,http://tunein.ord.streamguys1.com/secure-aljazeera-english
-MSNBC,http://tunein.ord.streamguys1.com/secure-msnbc-premium
-阿里郎电台(视频),https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-阿里郎电台(音频),http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
-Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-Country Hits,http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-Country Roads,http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-Relax &amp; Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-The Hit List,http://rfcmedia.streamguys1.com/srhitlist.mp3
-Dance One,http://rfcmedia.streamguys1.com/srdanceone.mp3
-Disco Beats,http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-Today&#39;s Country Hits,http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-V2BEAT,https://stream.v2beat.live/icecast.audio?t&#61;file.mp3
-Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
-AsiaFM 亚洲音乐,http://asiafm.hk:8000/asiafm
-AsiaFM 亚洲经典,http://goldfm.cn:8000/goldfm
-AsiaFM 亚洲天空,http://funradio.cn:8000/funradio
-AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
-Big B Radio - 中文流行,http://cpop.bigbradio.net/s
-Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
-Big B Radio - 日语流行,http://jpop.bigbradio.net/s
-Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
-Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
-电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
-古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-沐耳电台,http://mplay.muearfm.cn/muearfm/fm666.m3u8
+上海动感101,https://lhttp.qingting.fm/live/274/64k.mp3
+上海音乐电台,https://www.qtfm.cn/radios/273/64k.mp3
+广东音乐之声,https://www.qtfm.cn/radios/1260/64k.mp3
+怀旧好声音,https://www.qtfm.cn/radios/1223/64k.mp3
+荧火虫电台,https://www.qtfm.cn/radios/4998/64k.mp3
+TIKTOK电台,https://www.qtfm.cn/radios/5062/64k.mp3
+北京音乐电台,https://www.qtfm.cn/radios/332/64k.mp3
+欧美音乐电台,https://www.qtfm.cn/radios/15318703/64k.mp3
+CNR音乐台,https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
+江苏音乐台,https://lhttp.qtfm.cn/live/4938/64k.mp3
+CNR经典音乐,http://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8?wsSession=d8a4b41c6557ba30cfeebcdb-174709298057895&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+BIG 亚洲音乐,https://antares.dribbcast.com/proxy/apop?mp=/s
+TIKTOK 英语台; Unwind,https://stream.zeno.fm/advmk81bu68uv
+澳洲粤语台,http://s1.voscast.com:10442/stream
+星岛粤语台,http://nap.casthost.net:8765/;?icy=http
+希望之声粤语台,http://sohcan.out.airtime.pro:8000/sohcan_a
+HITS 华语,https://das-edge11-live365-dal03.cdnstream.com/a57743
+纽约华语台,https://video1.getstreamhosting.com:8292/stream?.mp3
+澳洲华语台,https://stream4.rcast.net/71937/#?.mp3
+美国旧金山中文台,http://radiokest.serverroom.us:6670/;?type=http&nocache=3295
+美国之音VOA,https://stream.zeno.fm/u87dfeeyk2zuv
+意大利中文台,https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
+西雅图中文台,http://kxparadio.serverroom.us:5852/stream.mp3
+法国中文台,https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3
+韩国中文台,https://api.xmgspace.me/api/kbs-stream/
+加合大中文台,https://5b2959fe11444.streamlock.net/radio/fm889.stream/playlist.m3u8
+马来西亚中文台,https://a.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3
+塞普路斯中文台,https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
 动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
-天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
-天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
-舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
-心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
-80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
-格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
-有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
-安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
-国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-天津静海区综合广播·交通广播网,http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
-湖南潇湘之声,http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
-湖南经济广播,http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
-湖南旅游广播·PoPoPod播客电台,http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+新西兰中文台,https://s26.myradiostream.com:20274/listen.mp3
+广州音乐台,http://lhttp.qingting.fm/live/20194/64k.mp3
+广州新闻台,http://lhttp.qingting.fm/live/4848/64k.mp3
+广州交通台,http://lhttp.qingting.fm/live/4955/64k.mp3
+华侨音乐台,https://stream.radiojar.com/60sqadqu97zuv.mp3
+韩国音乐馆,https://stream.zeno.fm/r0tbse9jnbptv
+云南音乐台,https://lhttp.qtfm.cn/live/1929/64k.mp3
+河北音乐台,https://radio.pull.hebtv.com/live/hebyy.m3u8
+重庆音乐台,http://ls.qingting.fm/live/647.m3u8
+东方音乐台,https://radio.yunmoan.cn/radio/touhou/320k
+北海音乐台,https://lhttp.qtfm.cn/live/20211621/64k.mp3
+厦门音乐台,https://lhttp.qtfm.cn/live/1739/64k.mp3
+四川音乐台,https://lhttp.qtfm.cn/live/1110/64k.mp3
+武汉音乐台,http://ls.qingting.fm/live/1297.m3u8
+南京音乐台,http://live.xmcdn.com/live/71/64.m3u8
+安徽音乐台,https://lhttp.qtfm.cn/live/1947/64k.mp3
+山东音乐台,http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
+河南音乐台,https://stream.hndt.com/live/yinyue/playlist.m3u8
+浙江音乐台,http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+湖南音乐台,https://lhttp-hw.qtfm.cn/live/4979/64k.mp3
 湖南交通广播,http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
 湖南金鹰之声,http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
 湖南综合广播,http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
