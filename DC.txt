@@ -1,5 +1,9 @@
 {
   "urls": [
+   {
+      "name": "饭太硬📚在线",
+      "url": "http://www.饭太硬.net/tv"
+    },
     {
       "name": "SVIP📚在线",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
@@ -17,12 +21,16 @@
       "url": "http://miqk.cc/小米/DEMO.json"
     },
    {
-      "name": "饭太硬📚在线",
-      "url": "http://www.饭太硬.net/tv"
+      "name": "俊得📚在线",
+      "url": "http://home.jundie.top:81/top98.json"
     },
    {
       "name": "肥猫📚在线",
       "url": "http://肥猫.net/"
+    },
+   {
+      "name": "无名📚在线",
+      "url": "https://6800.kstore.vip/fish.json"
     },
  {
       "name": "摸鱼儿📚在线",
@@ -33,8 +41,8 @@
       "url": "http://new.王二小放牛娃.top"
     },
     {
-      "name": "萧洒📚在线",
-      "url": "https://cnb.cool/fish2018/xs/-/git/raw/main/api.json"
+      "name": "小赵📚在线",
+      "url": "https://xn--yeto36i.v.xn--dkw.xn--6qq986b3xl/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=小赵"
     },
     {
       "name": "小盒子4K📚在线",
