@@ -9,8 +9,8 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
     },
     {
-      "name": "备用📚在线",
-      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
+      "name": "欧歌📚在线",
+      "url": "https://play.iptv365.org/%E6%AC%A7%E6%AD%8C/api.json"
     },
     {
       "name": "VIP📚在线",
@@ -94,7 +94,7 @@
     },
     {
       "name": "D佬📚在线",
-      "url": "http://2883.kstore.space/nzk/nzk0722.json"
+      "url": "http://9xi4o.tk/0725.json"
     },
     {
       "name": "小马📚在线",
